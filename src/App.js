@@ -12,8 +12,8 @@ class App extends Component {
           <h1 className="App-title">Search</h1>
       </header>
     )
-  }
-
+  } 
+  
   render() {
     return (
       <div className="App">
